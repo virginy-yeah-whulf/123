@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Art Portfolio</title>
+Index.html
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Art Portfolio</h1>
+    <p>A showcase of my creative work</p>
+  </header>
+  <section id="gallery">
+    <div class="art-piece">
+      <img src="images/art1.jpg" alt="Artwork 1">
+      <p>Artwork Title 1</p>
+    </div>
+    <div class="art-piece">
+      <img src="images/art2.jpg" alt="Artwork 2">
+      <p>Artwork Title 2</p>
+    </div>
+  </section>
+  <footer>
+    <p>© 2024 My Art Portfolio</p>
+  </footer>
+</body>
+</html>
